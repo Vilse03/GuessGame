@@ -1,0 +1,29 @@
+[
+  {
+    "player_name": "Oliver",
+    "difficulty": "Lätt",
+    "max_number": 10,
+    "secret_number": 10,
+    "attempts_used": 4,
+    "max_attempts": 5,
+    "success": true
+  },
+  {
+    "player_name": "Test2",
+    "difficulty": "Svår",
+    "max_number": 100,
+    "secret_number": 67,
+    "attempts_used": 3,
+    "max_attempts": 5,
+    "success": true
+  },
+  {
+    "player_name": "Test3",
+    "difficulty": "Medelsvår",
+    "max_number": 50,
+    "secret_number": 42,
+    "attempts_used": 5,
+    "max_attempts": 5,
+    "success": false
+  }
+]
